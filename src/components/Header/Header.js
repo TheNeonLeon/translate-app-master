@@ -6,7 +6,7 @@ import userIcon from '../../images/user-icon.svg'
 
 const Header = () => {
   //state for header
-  const [user, setUser] = useUser();
+  const [user] = useUser();
   return (
   <div>
     
