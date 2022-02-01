@@ -1,0 +1,38 @@
+section {
+  margin:0;
+  background-color: #FFC75F;
+}
+
+.card {
+  width: 20rem;
+  border-radius: 35px;
+  margin: 0 auto 90px;
+}
+
+.section-text {
+  font-family: 'Love Ya Like A Sister', cursive;
+  color:#fff;
+  margin: 0;
+}
+
+.body-text {
+  font-family: 'Sanchez', serif;
+  color: #fff;
+  text-align: center;
+  }
+
+  .userInput {
+    border-radius: 27px;
+    font-family: 'Sanchez', serif;
+  }
+  .rounded-circle {
+    border-radius: 50%;
+    padding: 1%;
+    background-color: #845EC2;
+    border-color: #00000040;
+    padding: 0.3%;
+  }
+
+
+
+  
